@@ -18,7 +18,7 @@ class Pointer(object):
 		print("(",self.x,self.y,")")
 						
 
-
+#change
 	# def func(self,x,y):
 	# 	a = self.x + self.y
 	# 	b = x + y
