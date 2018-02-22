@@ -30,3 +30,5 @@ class ToDoList(object):
 		for i in done[self.name]:
 			print('\n-',i)
 		print("  ----END----")			
+
+	#Add extra features to the application		
